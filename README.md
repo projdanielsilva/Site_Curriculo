@@ -1,13 +1,4 @@
 # Site_Curriculo
 Repositório onde esta o site sobre o meu currículo.
 
-
-
-
-
-
-
-
-
-
-https://projdanielsilva.github.io./Site_Curriculo/
+Link para o site: https://projdanielsilva.github.io./Site_Curriculo/
